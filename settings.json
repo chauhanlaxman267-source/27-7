@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Laxm009.aternos.me",
+    "ip": "Laxm009.aternos.me:15549",
     "port": 15549,
     "version": "1.20.1",
     "try-creative": false
